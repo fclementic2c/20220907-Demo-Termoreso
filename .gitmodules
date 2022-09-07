@@ -2,3 +2,8 @@
 	path = Camille0907/mis-builder
 	url = git@github.com:Camille0907/mis-builder.git
 	branch = 15-add-mis_builder_alernative_commitment_generic
+
+[submodule "OCA/server-ux"]
+	path = OCA/server-ux
+	url = git@github.com:OCA/server-ux.git
+	branch = 15.0
